@@ -58,15 +58,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/wine-quality-analysis.git
-   cd wine-quality-analysis
-   ```
+1. Download the dataset and place it in the `data` folder.
 
-2. Download the dataset and place it in the `data` folder.
-
-3. Open the Jupyter notebook:
+2. Open the Jupyter notebook:
    ```bash
    jupyter notebook "Wine quality.ipynb"
    ```
@@ -76,9 +70,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Results
 ### Model Performance
 After training multiple models, the following results were obtained:
-- **Random Forest Classifier**: Achieved the highest accuracy of approximately 85%, making it the best-performing model for predicting wine quality. This model demonstrated a balanced trade-off between precision and recall.
-- **Support Vector Machine (SVM)**: Showed a good accuracy of around 82%, but with higher computational time.
-- **Logistic Regression**: Provided an accuracy of 78%, which served as a good baseline for comparison.
+- **Random Forest Classifier**: Achieved the highest accuracy of approximately 82%, making it the best-performing model for predicting wine quality. This model demonstrated a balanced trade-off between precision and recall.
+- **Support Vector Machine (SVM)**: Showed a good accuracy of hich served as a good baseline for comparison.
+- **Logistic Regression**: Provided an accuracy of 73%.
   
 ### Key Insights
 - **Alcohol Content**: Higher alcohol levels generally correlated with higher quality ratings.
