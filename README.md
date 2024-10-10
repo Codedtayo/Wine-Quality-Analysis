@@ -31,7 +31,7 @@ The dataset used for this analysis contains information on wine samples, includi
 - **Alcohol**
 - **Quality** (target variable)
 
-The dataset is sourced from the UCI Machine Learning Repository and is provided in a CSV format.
+The dataset is sourced from the UCI Machine Learning Repository and is provided in a CSV format ``winequality-white1.csv``.
 
 ## Project Structure
 The repository is organized as follows:
