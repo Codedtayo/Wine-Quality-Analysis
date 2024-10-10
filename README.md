@@ -9,7 +9,7 @@ This project analyzes the quality of wine based on various chemical properties u
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The goal of this project is to predict the quality of wine based on its physicochemical properties. Wine quality is rated on a scale, and the aim is to use machine learning models to determine the quality from the given features.
@@ -84,5 +84,3 @@ These insights suggest that certain chemical properties, such as alcohol and aci
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
